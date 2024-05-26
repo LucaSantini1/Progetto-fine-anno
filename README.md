@@ -1,2 +1,3 @@
 # Progetto-fine-anno
-ti prego inserisci i dati della carta
+Questo è un sito di sneakers
+
